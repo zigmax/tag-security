@@ -53,7 +53,7 @@ Join our open discussions and share news:
 
 ## Meeting Information
 
-- **Americas**: Weekly on Wednesdays at 10 am (UTC-7). [Zoom link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99826624011?password=1f36a78e-7dd1-43e6-b3c8-6a305038acb5),
+- **Americas**: Weekly on Thursday at 12 pm (UTC-4). [Zoom link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99826624011?password=1f36a78e-7dd1-43e6-b3c8-6a305038acb5),
 - **APAC**: Bi-weekly on Thursday at 11 am (UTC+9). [Zoom link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99241433042?password=ac8fe376-2fdf-4b90-b4de-a19a31fdb726).
 
 Check your local timezone [here](https://time.is/). Meetings are listed on the [CNCF calendar](https://www.cncf.io/calendar/) (filter by TAG Security and Compliance!)
